@@ -2,7 +2,7 @@
 
 $GLOBALS['startTime'] = microtime(true);
 
-$mant = false;
+
 
 
 if (isset($_SERVER['HTTP_X_FORWARDED_FOR'])) {

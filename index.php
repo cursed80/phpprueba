@@ -1,7 +1,5 @@
 <?php
-$GLOBALS['startTime'] = microtime(true);
 
-$mant = true;
 
 
 

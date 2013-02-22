@@ -1,6 +1,6 @@
 <?php
 $GLOBALS['startTime'] = microtime(true);
-$mant = true;
+$mant = null;
 $allowIp = "";
 
 if (isset($_SERVER['HTTP_X_FORWARDED_FOR'])) {

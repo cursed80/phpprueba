@@ -2,7 +2,6 @@
 $GLOBALS['startTime'] = microtime(true);
 
 $mant = true;
-=======
 
 
 

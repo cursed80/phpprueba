@@ -1,6 +1,10 @@
 <?php
 $GLOBALS['startTime'] = microtime(true);
+<<<<<<< HEAD
 $mant = null;
+=======
+
+>>>>>>> commit conflictivo
 $allowIp = "";
 
 if (isset($_SERVER['HTTP_X_FORWARDED_FOR'])) {

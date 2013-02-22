@@ -18,6 +18,13 @@ else {
    $ip = "unknown";
 }
 
+kjjjjjjjjjjjjjjjjjjj
+jjjj
+
+jjj¡¡¡¡
+
+
+
 if (!$mant Or $ip == $allowIp)
 {
 	// Specify your config section here
